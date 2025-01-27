@@ -1,5 +1,5 @@
-## Olá eu sou a Thiago Ramos, o Venedertti!
-Seja bem Vindo ao meu perfil!! <img alt="Pingu" height="30" width="40" src="https://mcruz.me/CSC-212/CS1WorkSite/Assets/tuxel.gif">
+## Hello I'm, Venedertti!
+Welcome to my perfil!! <img alt="Pingu" height="30" width="40" src="https://mcruz.me/CSC-212/CS1WorkSite/Assets/tuxel.gif">
   
  
 <div align="left">
